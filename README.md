@@ -1,10 +1,14 @@
 <h1 align="center">Hi there 👋, 🧑‍💻I'm Salim Abukar Ahmed💕</h1>
 <h3 align="center">A passionate Junior Flutter Mobile Application Developer 📱 & UI Designer from Somalia.</h3>
+<br/>
+ <p align="center"><img align="center" width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Saliim242&" alt="Saliim242" /></p>
+
 <p align="center">
     <a href="https://github.com/Saliim242"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=Saliim242&show_icons=true&title_color=f6f6f6&text_color=f6f6f6&bg_color=1f4690&locale=en&layout=compact" alt="Saliim242" ></a>
     &nbsp;
     &nbsp;
-   <a href="https://github.com/Saliim242"><img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saliim242&show_icons=true&title_color=f6f6f6&text_color=f6f6f6&bg_color=1f4690&locale=en&layout=compact&hide_title=true" alt="saliim242"></a>  
+   <a href="https://github.com/Saliim242"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=saliim242&show_icons=true&title_color=f6f6f6&text_color=f6f6f6&bg_color=1f4690&locale=en&layout=compact&hide_title=true" alt="saliim242"></a>
+
 </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saliim242&show_icons=true&title_color=f6f6f6&text_color=f6f6f6&bg_color=1f4690&locale=en" alt="saliim242"/></p> -->
@@ -44,6 +48,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Saliim242&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -52,11 +60,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Saliim242&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=1f4690&text_color=f6f6f6&title_color=f6f6f6)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://github-contributor-stats.vercel.app/api?username=Saliim242&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=1f4690&text_color=f6f6f6&title_color=f6f6f6")
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/salim7442"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salim7442" /></a></p><br><br>
