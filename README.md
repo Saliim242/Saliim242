@@ -15,7 +15,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saliim242&label=My%20Profile%20views&color=3eb489&style=flat" alt="saliim242" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zaliim242" target="blank"><img src="https://img.shields.io/twitter/follow/zaliim242?logo=twitter&style=for-the-badge" alt="zaliim242" /></a> </p>
+<p align="left"> 
+ 
+ <a href="https://twitter.com/zaliim242" target="blank"><img src="https://img.shields.io/twitter/follow/Zaliim242?logo=twitter&style=for-the-badge" alt="zaliim242" /></a> 
+<a href="https://github.com/Saliim242" target="blank"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/saliim242?logo=gitHub&style=for-the-badge"  > <a/>
+ <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/saliim242?logo=gitHub&style=for-the-badge">
+<a href="https://www.youtube.com/@Dhalle242" target="blank">  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCQALMbTQrSAe91ZeGCUtGJA?logo=YouTube&style=for-the-badge"><a/>
+
+
+
+</p>
+
+
+
 
 - 🔭 I’m currently working on **E-voting Application & food Delivery Application**
 
