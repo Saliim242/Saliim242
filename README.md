@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, 🧑‍💻I'm Salim Abukar Ahmed💕</h1>
 <h3 align="center">A passionate Junior Flutter Mobile Application Developer 📱 & UI Designer from Somalia.</h3>
+
+ 
+
 <br/>
  <p align="center"> <a href="https://github.com/Saliim242"><img align="center" width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Saliim242&" alt="Saliim242" /></p>
 
