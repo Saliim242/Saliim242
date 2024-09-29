@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, 🧑‍💻I'm Salim Abukar Ahmed💕</h1>
-<h3 align="center">A passionate Junior Flutter Mobile Application Developer 📱 & UI Designer from Somalia.</h3>
+<h3 align="center">A passionate Flutter Mobile Application Developer 📱 & UI Designer from Somalia.</h3>
 
  
 
